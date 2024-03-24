@@ -6,7 +6,7 @@
  * * 
  * * 3.controlled element : one object in a state holding all the input fields value
  * * 
- * * 4. uncontrolled element : [useRef()] useRef to create a reference to the element and access value by using like: (nameRef.current.value)
+ * * 4. uncontrolled element : [useRef()] useRef to create a reference to the element and   access value by using like: (nameRef.current.value)
  * * 
  * * 
  * * 
